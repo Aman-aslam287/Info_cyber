@@ -3,7 +3,7 @@
 It is widely used in servers, mobile devices, embodied systems, and desktop computers.
 
 ### Key Features of Linux:
--**Free and Open Source**
+- **Free and Open Source**
 - **Multitasking** and **Multiuser**
 - **Secure and Stable**
 - **Highly in customizable**
