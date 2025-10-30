@@ -10,13 +10,13 @@ It is widely used in servers, mobile devices, embodied systems, and desktop comp
 - **Used in Servers, Supercomputers, IoT, Mobile (Android)**
 
 ### History Of Linux:
-|Year  |Milestone                                                  |
-|------|-----------------------------------------------------------|
-| 1969 | Unix developed at Bell Lbas                               |
-| 1983 | GNU Project started by Richard Stallman                   |
-| 1991 | Linux Torvalds releases first Linux kernal                |
-| 1992 | Linux merged with GNU tools (making it acomplete OS)      |
-| 2000+| Linux dominates in servers, smartphones, cloud, containers|
+|Year  |Milestone                                                    |
+|------|-------------------------------------------------------------|
+| 1969 | Unix developed at Bell Labs (its apaid and enterprise level)|                              |
+| 1983 | GNU Project started by Richard Stallman                     |
+| 1991 | Linux Torvalds releases first Linux kernal                  |
+| 1992 | Linux merged with GNU tools (making it acomplete OS)        |
+| 2000+| Linux dominates in servers, smartphones, cloud, containers  |
 
 ### Popular Linux Distributions
 | Distro          | Description                                    | Best For                           |
